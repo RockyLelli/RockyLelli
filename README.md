@@ -1,7 +1,7 @@
 # Hello World!:wave: Welcome to my personal README.md.
 
 ## Who am I?
-My name is Filippo Lelli: I am an italian-portuguese guy born in Bologna. I first lived in Lisbon then I moved back in Bologna.
+My name is Filippo Lelli: I am an italian-portuguese guy born in Bologna. I first lived in Lisbon then I moved back in Italy.
 
 ## What do I work on?
 I started coding in HTML when I was 16 to develope a web site called ASH and I'm fast learning how to code in other languages to finish developing it.
